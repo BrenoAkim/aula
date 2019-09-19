@@ -1,1 +1,2 @@
-primeira aula de git
+Remoção da linha
+comiit com o vscode
